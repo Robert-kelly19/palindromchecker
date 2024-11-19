@@ -7,7 +7,7 @@ body {
 body h1 {
   text-align: center;
   margin-top: 100px;
-  font-family: "lora", serif;
+  font-family: lora serif;
   font-size: 180%;
   color: white;
   font-weight: 400;
@@ -41,7 +41,7 @@ a {
   color: whitesmoke;
   margin: 20px;
   font-size: larger;
-  font-family: "Bokor", system-ui;
+  font-family: Bokor system-ui;
   background-color: #078e92;
   border: solid #078e92 1px;
   border-radius: 7%;
