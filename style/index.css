@@ -1,0 +1,44 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: #00343a;
+}
+
+header p {
+text-align: center;
+margin-top: 200px;
+font-family: 'lora', serif;
+font-size: 250%;
+color: white;
+font-weight: bolder;
+}
+
+.rob {
+  font-family: 'Bokor', system-ui;
+}
+
+a {
+  text-decoration: none;
+  background-color: #078e92;
+  color: white;
+  font-size: large;
+  text-align: center;
+}
+
+button {
+  background-color: #078e92;
+  border: solid #078e92 1px;
+  border-radius: 5%;
+  width: 150px;
+  padding: 7px;
+  text-align: center;
+  margin: auto;
+  display: flex;
+  height: 35px;
+}
+
+@media (min-width: 768px) {
+  header p {
+    font-size: 350%;
+  }
+}
