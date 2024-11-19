@@ -1,4 +1,4 @@
-body{
+body {
   margin: 0;
   padding: 0;
   background-color: #00343a;
@@ -7,7 +7,7 @@ body{
 body h1 {
   text-align: center;
   margin-top: 100px;
-  font-family: 'lora', serif;
+  font-family: "lora", serif;
   font-size: 180%;
   color: white;
   font-weight: 400;
@@ -21,7 +21,7 @@ body input {
   height: 20px;
   border-radius: 5%;
   border: solid white 1px;
-  box-shadow: #078e9270 0px 4px;
+  box-shadow: #078e9270 0 4px;
 }
 
 button {
@@ -36,12 +36,12 @@ button {
   font-size: larger;
 }
 
-a{
+a {
   text-decoration: none;
   color: whitesmoke;
   margin: 20px;
   font-size: larger;
-  font-family: 'Bokor', system-ui;
+  font-family: "Bokor", system-ui;
   background-color: #078e92;
   border: solid #078e92 1px;
   border-radius: 7%;
@@ -49,7 +49,7 @@ a{
   text-align: center;
 }
 
-@media(min-width: 768px){
+@media (min-width: 768px) {
   body h1 {
     font-size: xxx-large;
   }
